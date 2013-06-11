@@ -2,148 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8e0bfe3-0f5c-47d9-8731-bab713841fe9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.buildinfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/appendixA.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/appendixB.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/appendixC.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/appendixD.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/appendixE.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/appendixF.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/appendixG.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter01.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter02.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter03.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter04.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter05.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter06.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter07.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter08.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter09.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter10.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter11.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter12.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter13.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter14.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter15.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter16.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter17.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter18.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter19.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/chapter20.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/environment.pickle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/index.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/.doctrees/introduction.doctree" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/404.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/admin_index.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/author_changelist1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/author_changelist2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/author_changelist3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/book_changelist1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/book_changelist2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/book_changelist3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/book_editform1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/book_editform2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/login.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/missing_template.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/scaling-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/scaling-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/scaling-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/scaling-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/scaling-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/user_changelist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/user_editform.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/user_editform_errors.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_images/user_history.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/appendixA.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/appendixB.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/appendixC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/appendixD.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/appendixE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/appendixF.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/appendixG.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter01.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter02.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter03.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter04.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter05.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter06.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter07.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter08.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter09.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/chapter20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/index.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_sources/introduction.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/basic.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/comment-bright.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/comment-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/comment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/doctools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/down-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/file.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/pygments.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/rtd.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/searchtools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/sidebar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/up-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/_static/websupport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/appendixA.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/appendixB.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/appendixC.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/appendixD.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/appendixE.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/appendixF.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/appendixG.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter04.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter05.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter06.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter07.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter08.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter09.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter18.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter19.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/chapter20.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/genindex.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/objects.inv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/django-book/searchindex.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d8e0bfe3-0f5c-47d9-8731-bab713841fe9" time="1370951464160" ignored="false" />
+    <file path="/Dummy.txt" changelist="d8e0bfe3-0f5c-47d9-8731-bab713841fe9" time="1370951802810" ignored="false" />
     <file path="/views.py" changelist="d8e0bfe3-0f5c-47d9-8731-bab713841fe9" time="1370937682109" ignored="false" />
     <file path="/urls.py" changelist="d8e0bfe3-0f5c-47d9-8731-bab713841fe9" time="1370950026989" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -177,7 +40,7 @@
       <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch3-4/mysite/mysite/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="27" selection-start="735" selection-end="735" vertical-scroll-proportion="0.5769231">
+            <state line="6" column="18" selection-start="198" selection-end="198" vertical-scroll-proportion="0.15734266">
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -267,6 +130,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -285,27 +149,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maggie Django" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch3-4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,8 +158,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="Mercurial.Project" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -420,7 +265,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16901408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1713615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -496,6 +341,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ch3-4/mysite/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="16" selection-start="1903" selection-end="1908" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ch3-4/mysite/mysite/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="4" selection-start="374" selection-end="385" vertical-scroll-proportion="0.0">
@@ -600,7 +452,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch3-4/mysite/mysite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="27" selection-start="735" selection-end="735" vertical-scroll-proportion="0.5769231">
+        <state line="6" column="18" selection-start="198" selection-end="198" vertical-scroll-proportion="0.15734266">
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
